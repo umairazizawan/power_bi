@@ -10,8 +10,8 @@ This repository provides **basic dashboard examples** to explore interactive dat
 
 ### Usage
 
-1. Download the .pbix file(s) from the `reports` folder.
-2. Open in Microsoft Power BI. The file should link directly to the remote dataset on GitHub.
+- Download the .pbix file(s) from the `reports` folder.
+- Open the fle in Microsoft Power BI. The file should link directly to the remote dataset on GitHub.
 
 ## Boston_Housing_market_Introduction_Dashboard
 
@@ -24,3 +24,4 @@ This repository provides **basic dashboard examples** to explore interactive dat
 ### Troubleshooting
 
 - In case the dataset does not load automatically, please update the link to the remote dataset in the `.pbix` file.
+
